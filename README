@@ -108,6 +108,5 @@ Make sure pdflatex is installed and run
 $ make docs
 
 
-Please refer to http://www.dyncall.org, dyncall(3), the dyncall manual and
 platform-specific READMEs under doc/ for more information.
 
